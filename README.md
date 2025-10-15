@@ -38,3 +38,6 @@ Navigate between pages using buttons for an interactive presentation.
 
 # Dshboard Preview
 ![HR Analysis](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/HR%20Analytics%20image.webp)
+
+# PAGE-1
+![HR Analysis](https://github.com/AgasthiDoshi/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202025-10-15%20234214.png)
