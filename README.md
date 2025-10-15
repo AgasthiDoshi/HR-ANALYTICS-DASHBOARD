@@ -41,3 +41,9 @@ Navigate between pages using buttons for an interactive presentation.
 
 # PAGE-1
 ![HR Analysis](https://github.com/AgasthiDoshi/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202025-10-15%20234214.png)
+
+# PAGE-2
+![HR Analysis](https://github.com/AgasthiDoshi/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202025-10-15%20234232.png)
+
+# PAGE-3
+![HR Analysis]()
