@@ -35,3 +35,6 @@ Download the .pbix file from this repository.
 Open it in Power BI Desktop.
 Use slicers to filter data dynamically.
 Navigate between pages using buttons for an interactive presentation.
+
+# Dshboard Preview
+![HR Analysis](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/HR%20Analytics%20image.webp)
