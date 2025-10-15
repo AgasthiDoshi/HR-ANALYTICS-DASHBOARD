@@ -47,3 +47,11 @@ Navigate between pages using buttons for an interactive presentation.
 
 # PAGE-3
 ![HR Analysis](https://github.com/AgasthiDoshi/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202025-10-15%20234249.png)
+
+# PAGE-4
+![HR Analysis](https://github.com/AgasthiDoshi/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%202025-10-15%20234302.png)
+
+🙏 Thank You
+Thank you for checking out my HR Analytics Power BI Dashboard project!
+I hope this inspires you to explore how data visualization can turn raw information into actionable insights.
+If you found this project helpful, feel free to ⭐ star the repository and share your feedback.
